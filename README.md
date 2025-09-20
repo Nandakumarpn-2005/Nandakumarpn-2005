@@ -68,9 +68,7 @@
   <a href="https://www.linkedin.com/in/nanda-kumar-p-n-a1323a335" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/Nandakumarpn-2005/Nandakumarpn-2005.git" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
+
   <a href="nandakumarpn2005@gmail.com ">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
