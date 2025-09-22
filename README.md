@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nanda Kumar P N</h1>
+<img src="https://camo.githubusercontent.com/11e6a1e4ab54438bd4ae92955cf86bd9c48328f53baac27f2ee4613f1d7c60e5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d64616461706565722d736f75726365266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"/><h1 align="center">Hi 👋, I'm Nanda Kumar P N</h1>
 <h3 align="center">A passionate Full Stack Developer & ML Enthusiast</h3>
 
 ---
@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love creating smart systems with sensors and code!
 
 ---
-<img src="https://camo.githubusercontent.com/11e6a1e4ab54438bd4ae92955cf86bd9c48328f53baac27f2ee4613f1d7c60e5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d64616461706565722d736f75726365266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"/>
+
 ## 🛠️ Languages and Tools
 
 ### 💻 Programming Languages
