@@ -8,7 +8,6 @@
 - 🎓 I'm currently pursuing *Bachelor of Computer Applications (BCA)*  
 - 🌱 I’m learning *Machine Learning, Web Technologies & Arduino Programming*  
 - 🔭 I’m working on personal projects and improving problem-solving skills  
-- 👨‍💻 All of my projects are available at: [My GitHub](https://github.com/Nandakumarpn-2005/Nandakumarpn-2005.git)  
 - 📫 How to reach me:nandakumar2005pn@gmail.com  
 - ⚡ Fun fact: I love creating smart systems with sensors and code!
 
