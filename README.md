@@ -54,11 +54,13 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Status
+
+ 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nandakumarpn-2005&show_icons=true" />
-  <br/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandakumarpn-2005&layout=compact" />
 </p>
 
