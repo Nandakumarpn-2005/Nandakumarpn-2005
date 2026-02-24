@@ -54,18 +54,14 @@
 
 ---
 
-## 📈 GitHub Status
-
- 
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandakumarpn-2005&show_icons=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nandakumarpn-2005&show_icons=true" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandakumarpn-2005&layout=compact" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nandakumarpn-2005&layout=compact" />
 </p>
-
 ---
-
 ## 📫 Connect with Me
 
 <p align="center">
